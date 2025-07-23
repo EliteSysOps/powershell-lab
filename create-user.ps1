@@ -5,3 +5,5 @@ Add-LocalGroupMember -Group "Administrators" -Member "testuser"
 zmiana2
 
 zmiana3
+
+zmiana4
