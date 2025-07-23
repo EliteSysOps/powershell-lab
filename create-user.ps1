@@ -3,3 +3,5 @@ New-LocalUser -Name "testuser" -Password (ConvertTo-SecureString "P@ssw0rd123" -
 Add-LocalGroupMember -Group "Administrators" -Member "testuser"
 
 zmiana2
+
+zmiana3
